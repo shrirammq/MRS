@@ -28,7 +28,7 @@ public class TC_001_CreateRecord extends FrameworkScript {
 
 		driver.findElement(By.id("loginButton")).click();
 
-		Thread.sleep(1000);
+		Thread.sleep(5000);
 
 		// Register
 
